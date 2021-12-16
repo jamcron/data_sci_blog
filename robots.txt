@@ -1,1 +1,1 @@
-Sitemap: https://fastpages.fast.ai/sitemap.xml
+Sitemap: https://jamcron.github.io/data_sci_blog/sitemap.xml
